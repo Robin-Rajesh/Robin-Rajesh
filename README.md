@@ -16,10 +16,10 @@
 ## 🧠 About Me
 
 - 🤖 I build **AI agents, LLM-powered apps and MCP servers**
-- 🛡️ Currently focused on **AI for contract risk management**
+- 🛡️ Currently working on **contract protection and risk management**
 - 🎙️ Exploring **voice agents** and **speech pattern recognition**
 - 📊 Background in **deep learning, NLP and data analysis**
-- 📜 Certified ML engineer, see [ML-Engineer-Certificates](https://github.com/Robin-Rajesh/ML-Engineer-Certificates)
+- 📜 ML engineering certifications: [ML-Engineer-Certificates](https://github.com/Robin-Rajesh/ML-Engineer-Certificates)
 
 ---
 
@@ -28,91 +28,93 @@
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 **AI / ML**
 
-![LLMs](https://img.shields.io/badge/LLMs-000000?style=flat-square&logo=openai&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=flat-square)
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-6B4FBB?style=flat-square)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F00?style=flat-square)
 ![Voice Agents](https://img.shields.io/badge/Voice_Agents-00A67E?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square)
 ![NLP](https://img.shields.io/badge/NLP-09A3D5?style=flat-square)
 
 **Tools & Platforms**
 
 ![Adaptive Cards](https://img.shields.io/badge/Adaptive_Cards-5059C9?style=flat-square&logo=microsoftteams&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
 ## 🚀 Projects Portfolio
 
-### 🛡️ AI for Risk & Contracts
+### 🛡️ Contracts & Risk
 
-| Project | Description |
-|---|---|
-| [**pact-protect**](https://github.com/Robin-Rajesh/pact-protect) | AI-assisted contract protection and risk review |
-| [**Risk_Management**](https://github.com/Robin-Rajesh/Risk_Management) | Risk management system |
+| Project | Description | Language |
+|---|---|---|
+| [**pact-protect**](https://github.com/Robin-Rajesh/pact-protect) | Contract protection application | TypeScript |
+| [**Risk_Management**](https://github.com/Robin-Rajesh/Risk_Management) | Risk management project *(just started)* | — |
 
 ### 🤖 Agents, LLMs & MCP
 
-| Project | Description |
-|---|---|
-| [**Logs_MCP**](https://github.com/Robin-Rajesh/Logs_MCP) | Model Context Protocol server for working with logs |
-| [**code-specialized-llm**](https://github.com/Robin-Rajesh/code-specialized-llm) | LLM specialized for code tasks |
-| [**Adaptive-Interview-bot**](https://github.com/Robin-Rajesh/Adaptive-Interview-bot) | Interview bot that adapts its questions to the candidate |
-| [**ten-days-of-voice-agents-2025**](https://github.com/Robin-Rajesh/ten-days-of-voice-agents-2025) | *(fork)* Ten Days of Voice Agents 2025 challenge |
-| [**ai-agent-challenge**](https://github.com/Robin-Rajesh/ai-agent-challenge) | *(fork)* AI agent challenge |
-| [**LLM**](https://github.com/Robin-Rajesh/LLM) | Large language model coursework |
-| [**LLM3**](https://github.com/Robin-Rajesh/LLM3) | LLM coursework, part 3 |
-| [**LLM_lab4**](https://github.com/Robin-Rajesh/LLM_lab4) | LLM lab 4 |
-| [**Lab4_LLM**](https://github.com/Robin-Rajesh/Lab4_LLM) | LLM lab 4 (alternate submission) |
+| Project | Description | Language |
+|---|---|---|
+| [**Logs_MCP**](https://github.com/Robin-Rajesh/Logs_MCP) | Model Context Protocol server for logs | Python |
+| [**ai-agent-challenge**](https://github.com/Robin-Rajesh/ai-agent-challenge) | Coding agent that writes custom parsers for bank statement PDFs *(fork)* | Python |
+| [**ten-days-of-voice-agents-2025**](https://github.com/Robin-Rajesh/ten-days-of-voice-agents-2025) | Ten Days of Voice Agents 2025 challenge *(fork)* | TypeScript |
+| [**Adaptive-Interview-bot**](https://github.com/Robin-Rajesh/Adaptive-Interview-bot) | Interview bot that adapts to the candidate | Python |
+| [**code-specialized-llm**](https://github.com/Robin-Rajesh/code-specialized-llm) | LLM specialized for code | Python |
+| [**LLM_lab4**](https://github.com/Robin-Rajesh/LLM_lab4) | Large language models lab 4 | Python |
+| [**Lab4_LLM**](https://github.com/Robin-Rajesh/Lab4_LLM) | Large language models lab 4 (extended) | Python |
+| [**LLM3**](https://github.com/Robin-Rajesh/LLM3) | Large language models lab 3 | Python |
+| [**LLM**](https://github.com/Robin-Rajesh/LLM) | Large language models coursework | — |
 
 ### 🎙️ Speech, NLP & Deep Learning
 
-| Project | Description |
-|---|---|
-| [**SPEECH-PATTERN-RECOGNITION**](https://github.com/Robin-Rajesh/SPEECH-PATTERN-RECOGNITION) | Speech pattern recognition |
-| [**SPR-LAB2**](https://github.com/Robin-Rajesh/SPR-LAB2) | Speech pattern recognition lab 2 |
-| [**SPR-CIA-3-LAB**](https://github.com/Robin-Rajesh/SPR-CIA-3-LAB) | Speech pattern recognition CIA 3 lab |
-| [**NLP_Exam**](https://github.com/Robin-Rajesh/NLP_Exam) | Natural language processing exam work |
-| [**DL_project**](https://github.com/Robin-Rajesh/DL_project) | Deep learning project |
-| [**ML-Engineer-Certificates**](https://github.com/Robin-Rajesh/ML-Engineer-Certificates) | Machine learning engineer certifications |
+| Project | Description | Language |
+|---|---|---|
+| [**SPEECH-PATTERN-RECOGNITION**](https://github.com/Robin-Rajesh/SPEECH-PATTERN-RECOGNITION) | Speech pattern recognition experiments | Jupyter Notebook |
+| [**SPR-CIA-3-LAB**](https://github.com/Robin-Rajesh/SPR-CIA-3-LAB) | Speech pattern recognition assessment lab | Jupyter Notebook |
+| [**SPR-LAB2**](https://github.com/Robin-Rajesh/SPR-LAB2) | Speech pattern recognition lab 2 | — |
+| [**DL_project**](https://github.com/Robin-Rajesh/DL_project) | Deep learning project | Python |
+| [**NLP_Exam**](https://github.com/Robin-Rajesh/NLP_Exam) | Natural language processing exam work | Jupyter Notebook |
+| [**cia**](https://github.com/Robin-Rajesh/cia) | Notebook-based assessment | Jupyter Notebook |
+| [**ML-Engineer-Certificates**](https://github.com/Robin-Rajesh/ML-Engineer-Certificates) | Machine learning engineer certifications | — |
 
 ### 📊 Data Analysis
 
-| Project | Description |
-|---|---|
-| [**Exploratory-Data-Analysis-of-Online-Retail-Dataset-using-R**](https://github.com/Robin-Rajesh/Exploratory-Data-Analysis-of-Online-Retail-Dataset-using-R) | Exploratory data analysis of an online retail dataset in R |
+| Project | Description | Language |
+|---|---|---|
+| [**Exploratory-Data-Analysis-of-Online-Retail-Dataset-using-R**](https://github.com/Robin-Rajesh/Exploratory-Data-Analysis-of-Online-Retail-Dataset-using-R) | Exploratory data analysis of an online retail dataset in R | HTML · R |
 
 ### 💻 Full-Stack & Apps
 
-| Project | Description |
-|---|---|
-| [**IT-Helpdesk-UI-Adaptive-Cards-**](https://github.com/Robin-Rajesh/IT-Helpdesk-UI-Adaptive-Cards-) | IT helpdesk interface built with Adaptive Cards |
-| [**expense-tracker**](https://github.com/Robin-Rajesh/expense-tracker) | Expense tracking app |
-| [**SYS_project**](https://github.com/Robin-Rajesh/SYS_project) | Systems project |
-| [**figma**](https://github.com/Robin-Rajesh/figma) | Figma design work |
-| [**template-fps**](https://github.com/Robin-Rajesh/template-fps) | *(fork)* First-person shooter game template |
+| Project | Description | Language |
+|---|---|---|
+| [**SYS_project**](https://github.com/Robin-Rajesh/SYS_project) | Systems project | HTML |
+| [**expense-tracker**](https://github.com/Robin-Rajesh/expense-tracker) | Expense tracking app | Python |
+| [**IT-Helpdesk-UI-Adaptive-Cards-**](https://github.com/Robin-Rajesh/IT-Helpdesk-UI-Adaptive-Cards-) | IT helpdesk interface built with Adaptive Cards | — |
+| [**figma**](https://github.com/Robin-Rajesh/figma) | Figma-related project | TypeScript |
+| [**FinalCletusRobin**](https://github.com/Robin-Rajesh/FinalCletusRobin) | Deployed CollabCanvas · [live demo](https://fyp-cletus-robin.vercel.app/) *(fork)* | — |
+| [**template-fps**](https://github.com/Robin-Rajesh/template-fps) | Open source FPS shooter template built on Elympics · [live demo](https://template-fps.elympics.cc) *(fork)* | — |
 
 ### 📚 Coursework & Learning
 
-| Project | Description |
-|---|---|
-| [**Java_Labs**](https://github.com/Robin-Rajesh/Java_Labs) | Java lab exercises |
-| [**JavaCIA**](https://github.com/Robin-Rajesh/JavaCIA) | Java continuous internal assessment |
-| [**cia**](https://github.com/Robin-Rajesh/cia) | Continuous internal assessment |
-| [**Assignment-5**](https://github.com/Robin-Rajesh/Assignment-5) | Assignment 5 |
-| [**Assignment-4**](https://github.com/Robin-Rajesh/Assignment-4) | Assignment 4 |
-| [**Assignment-3**](https://github.com/Robin-Rajesh/Assignment-3) | Assignment 3 |
-| [**FinalCletusRobin**](https://github.com/Robin-Rajesh/FinalCletusRobin) | *(fork)* Final collaborative project |
-| [**firstgitsession**](https://github.com/Robin-Rajesh/firstgitsession) | My first Git session |
-| [**Robin-Rajesh**](https://github.com/Robin-Rajesh/Robin-Rajesh) | Config files for my GitHub profile |
+| Project | Description | Language |
+|---|---|---|
+| [**Java_Labs**](https://github.com/Robin-Rajesh/Java_Labs) | Java lab exercises | Java |
+| [**JavaCIA**](https://github.com/Robin-Rajesh/JavaCIA) | Java internal assessment | Java |
+| [**Assignment-5**](https://github.com/Robin-Rajesh/Assignment-5) | Java assignment 5 | Java |
+| [**Assignment-4**](https://github.com/Robin-Rajesh/Assignment-4) | Java assignment 4 | Java |
+| [**Assignment-3**](https://github.com/Robin-Rajesh/Assignment-3) | Assignment 3 | — |
+| [**firstgitsession**](https://github.com/Robin-Rajesh/firstgitsession) | My first Git session | — |
+| [**Robin-Rajesh**](https://github.com/Robin-Rajesh/Robin-Rajesh) | Config files for my GitHub profile | Markdown |
 
 ---
 
