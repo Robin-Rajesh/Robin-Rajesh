@@ -6,6 +6,8 @@
 
 *Building intelligent systems end to end, from model experiments to production-ready AI applications.*
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-robin--rajesh.github.io-7C6CFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://robin-rajesh.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-robinrajesh-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/robinrajesh)
 [![GitHub](https://img.shields.io/badge/GitHub-Robin--Rajesh-181717?style=for-the-badge&logo=github)](https://github.com/Robin-Rajesh)
 
 </div>
@@ -14,6 +16,8 @@
 
 ## 🧠 About Me
 
+- 💼 **Full Stack Engineer at Worldline**
+- 🎓 M.Sc. in Artificial Intelligence & Machine Learning, CHRIST University (2026)
 - 🤖 I build **AI agents, LLM-powered apps and MCP servers**
 - 🛡️ Building **AI contract risk analysis** with LLMs, RAG and OCR ([pact-protect](https://github.com/Robin-Rajesh/pact-protect))
 - 📊 Built an **agentic data analyst** that turns plain-English questions into SQL, charts and reports ([SYS_project](https://github.com/Robin-Rajesh/SYS_project))
