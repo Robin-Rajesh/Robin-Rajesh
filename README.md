@@ -101,7 +101,7 @@
 | [**LLM3**](https://github.com/Robin-Rajesh/LLM3) | Foundation vs domain-specific model comparison for healthcare and legal text | Python |
 | [**cia**](https://github.com/Robin-Rajesh/cia) | Short story generation with FLAN-T5 | Jupyter Notebook |
 | [**ai-agent-challenge**](https://github.com/Robin-Rajesh/ai-agent-challenge) | Coding agent that writes custom parsers for bank statement PDFs *(fork)* | Python |
-| [**LLM**](https://github.com/Robin-Rajesh/LLM) | Large language models coursework *(empty)* | — |
+| [**LLM**](https://github.com/Robin-Rajesh/LLM) | Large language models coursework *(empty)* | - |
 
 ### 🎙️ Speech, NLP & Computer Vision
 
@@ -111,8 +111,8 @@
 | [**NLP_Exam**](https://github.com/Robin-Rajesh/NLP_Exam) | Movie review spoiler detection: TF-IDF + XGBoost vs BiLSTM + GloVe | Jupyter Notebook |
 | [**SPR-CIA-3-LAB**](https://github.com/Robin-Rajesh/SPR-CIA-3-LAB) | DTW speech alignment and online vs offline speech-to-text (Whisper) | Jupyter Notebook |
 | [**SPEECH-PATTERN-RECOGNITION**](https://github.com/Robin-Rajesh/SPEECH-PATTERN-RECOGNITION) | LPC analysis, signal reconstruction and formant estimation | Jupyter Notebook |
-| [**SPR-LAB2**](https://github.com/Robin-Rajesh/SPR-LAB2) | Speech pattern recognition lab 2 *(empty)* | — |
-| [**ML-Engineer-Certificates**](https://github.com/Robin-Rajesh/ML-Engineer-Certificates) | AWS Machine Learning Engineer - Associate (MLA-C01) exam-prep certificates | — |
+| [**SPR-LAB2**](https://github.com/Robin-Rajesh/SPR-LAB2) | Speech pattern recognition lab 2 *(empty)* | - |
+| [**ML-Engineer-Certificates**](https://github.com/Robin-Rajesh/ML-Engineer-Certificates) | AWS Machine Learning Engineer - Associate (MLA-C01) exam-prep certificates | - |
 
 ### 📊 Data Analysis
 
@@ -126,9 +126,9 @@
 |---|---|---|
 | [**IT-Helpdesk-UI-Adaptive-Cards-**](https://github.com/Robin-Rajesh/IT-Helpdesk-UI-Adaptive-Cards-) | Adaptive Card templates for Microsoft Copilot Studio chatbots | JSON |
 | [**figma**](https://github.com/Robin-Rajesh/figma) | QuickBite food-ordering mobile UI prototype, from Figma to React | TypeScript |
-| [**FinalCletusRobin**](https://github.com/Robin-Rajesh/FinalCletusRobin) | Deployed CollabCanvas · [live demo](https://fyp-cletus-robin.vercel.app/) *(fork)* | — |
-| [**template-fps**](https://github.com/Robin-Rajesh/template-fps) | Open source FPS shooter template built on Elympics · [live demo](https://template-fps.elympics.cc) *(fork)* | — |
-| [**Risk_Management**](https://github.com/Robin-Rajesh/Risk_Management) | Risk management project *(just started)* | — |
+| [**FinalCletusRobin**](https://github.com/Robin-Rajesh/FinalCletusRobin) | Deployed CollabCanvas · [live demo](https://fyp-cletus-robin.vercel.app/) *(fork)* | - |
+| [**template-fps**](https://github.com/Robin-Rajesh/template-fps) | Open source FPS shooter template built on Elympics · [live demo](https://template-fps.elympics.cc) *(fork)* | - |
+| [**Risk_Management**](https://github.com/Robin-Rajesh/Risk_Management) | Risk management project *(just started)* | - |
 
 ### 📚 Java & Coursework
 
@@ -138,8 +138,8 @@
 | [**JavaCIA**](https://github.com/Robin-Rajesh/JavaCIA) | Library management system and matrix rotation | Java |
 | [**Assignment-5**](https://github.com/Robin-Rajesh/Assignment-5) | Interfaces and abstract classes: bank accounts and rainwater trapping | Java |
 | [**Assignment-4**](https://github.com/Robin-Rajesh/Assignment-4) | House Robber dynamic programming variations | Java |
-| [**Assignment-3**](https://github.com/Robin-Rajesh/Assignment-3) | Assignment 3 *(empty)* | — |
-| [**firstgitsession**](https://github.com/Robin-Rajesh/firstgitsession) | My first Git session | — |
+| [**Assignment-3**](https://github.com/Robin-Rajesh/Assignment-3) | Assignment 3 *(empty)* | - |
+| [**firstgitsession**](https://github.com/Robin-Rajesh/firstgitsession) | My first Git session | - |
 | [**Robin-Rajesh**](https://github.com/Robin-Rajesh/Robin-Rajesh) | Config files for my GitHub profile | Markdown |
 
 ---
