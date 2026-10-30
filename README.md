@@ -18,7 +18,7 @@
 - 🛡️ Building **AI contract risk analysis** with LLMs, RAG and OCR ([pact-protect](https://github.com/Robin-Rajesh/pact-protect))
 - 📊 Built an **agentic data analyst** that turns plain-English questions into SQL, charts and reports ([SYS_project](https://github.com/Robin-Rajesh/SYS_project))
 - 🎙️ Built **10 real-time voice agents in 10 days** for the [murf.ai challenge](https://github.com/Robin-Rajesh/ten-days-of-voice-agents-2025)
-- 📜 Completed the AWS **Machine Learning Engineer – Associate** exam-prep track ([certificates](https://github.com/Robin-Rajesh/ML-Engineer-Certificates))
+- 📜 Completed the AWS **Machine Learning Engineer - Associate** exam-prep track ([certificates](https://github.com/Robin-Rajesh/ML-Engineer-Certificates))
 
 ---
 
@@ -112,7 +112,7 @@
 | [**SPR-CIA-3-LAB**](https://github.com/Robin-Rajesh/SPR-CIA-3-LAB) | DTW speech alignment and online vs offline speech-to-text (Whisper) | Jupyter Notebook |
 | [**SPEECH-PATTERN-RECOGNITION**](https://github.com/Robin-Rajesh/SPEECH-PATTERN-RECOGNITION) | LPC analysis, signal reconstruction and formant estimation | Jupyter Notebook |
 | [**SPR-LAB2**](https://github.com/Robin-Rajesh/SPR-LAB2) | Speech pattern recognition lab 2 *(empty)* | — |
-| [**ML-Engineer-Certificates**](https://github.com/Robin-Rajesh/ML-Engineer-Certificates) | AWS Machine Learning Engineer – Associate (MLA-C01) exam-prep certificates | — |
+| [**ML-Engineer-Certificates**](https://github.com/Robin-Rajesh/ML-Engineer-Certificates) | AWS Machine Learning Engineer - Associate (MLA-C01) exam-prep certificates | — |
 
 ### 📊 Data Analysis
 
