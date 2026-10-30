@@ -18,7 +18,7 @@
 - 🤖 I build **AI agents, LLM-powered apps and MCP servers**
 - 🛡️ Building **AI contract risk analysis** with LLMs, RAG and OCR ([pact-protect](https://github.com/Robin-Rajesh/pact-protect))
 - 📊 Built an **agentic data analyst** that turns plain-English questions into SQL, charts and reports ([SYS_project](https://github.com/Robin-Rajesh/SYS_project))
-- 🎙️ Exploring **voice agents** and **speech pattern recognition**
+- 🎙️ Built **10 real-time voice agents in 10 days** for the [murf.ai challenge](https://github.com/Robin-Rajesh/ten-days-of-voice-agents-2025)
 - 📜 Completed the AWS **Machine Learning Engineer – Associate** exam-prep track ([certificates](https://github.com/Robin-Rajesh/ML-Engineer-Certificates))
 
 ---
@@ -63,6 +63,25 @@
 
 ## 🚀 Projects Portfolio
 
+### 🎙️ Spotlight: 10 Days of AI Voice Agents
+
+[![Repo](https://img.shields.io/badge/View_repo-ten--days--of--voice--agents--2025-6C47FF?style=for-the-badge&logo=github)](https://github.com/Robin-Rajesh/ten-days-of-voice-agents-2025)
+
+**10 real-time voice agents in 10 days** for the [murf.ai](https://murf.ai) AI Voice Agents Challenge, built with LiveKit, Murf Falcon TTS, Deepgram and Gemini.
+
+| Day | Agent | Highlights |
+|:---:|---|---|
+| 1 | [Starter Voice Assistant](https://github.com/Robin-Rajesh/ten-days-of-voice-agents-2025/tree/main/day-01-starter-agent) | Full STT → LLM → TTS voice pipeline |
+| 2 | [Coffee Shop Barista](https://github.com/Robin-Rajesh/ten-days-of-voice-agents-2025/tree/main/day-02-coffee-barista) | Voice ordering with a live drink visualizer |
+| 3 | [Wellness Companion](https://github.com/Robin-Rajesh/ten-days-of-voice-agents-2025/tree/main/day-03-wellness-companion) | Daily check-ins that remember previous days |
+| 4 | [Teach-the-Tutor](https://github.com/Robin-Rajesh/ten-days-of-voice-agents-2025/tree/main/day-04-teach-the-tutor) | Learn, quiz and teach-back modes, each with its own voice |
+| 5 | [SDR Sales Agent](https://github.com/Robin-Rajesh/ten-days-of-voice-agents-2025/tree/main/day-05-sdr-agent) | Razorpay FAQ answers and lead capture |
+| 6 | [Fraud Alert Agent](https://github.com/Robin-Rajesh/ten-days-of-voice-agents-2025/tree/main/day-06-fraud-alert) | Caller verification and transaction review |
+| 7 | [Grocery Ordering](https://github.com/Robin-Rajesh/ten-days-of-voice-agents-2025/tree/main/day-07-grocery-ordering) | Cart, "ingredients for a dish" and order tracking |
+| 8 | [Stranger Things Game Master](https://github.com/Robin-Rajesh/ten-days-of-voice-agents-2025/tree/main/day-08-game-master) | D&D-style voice adventure with a themed UI |
+| 9 | [Voice Shopping Agent](https://github.com/Robin-Rajesh/ten-days-of-voice-agents-2025/tree/main/day-09-voice-shopping) | Commerce flow inspired by the Agentic Commerce Protocol |
+| 10 | [Improv Battle](https://github.com/Robin-Rajesh/ten-days-of-voice-agents-2025/tree/main/day-10-improv-battle) | AI game-show host with 15 improv scenarios |
+
 ### ⭐ Featured
 
 | Project | Description | Stack |
@@ -83,7 +102,6 @@
 | [**LLM3**](https://github.com/Robin-Rajesh/LLM3) | Foundation vs domain-specific model comparison for healthcare and legal text | Python |
 | [**cia**](https://github.com/Robin-Rajesh/cia) | Short story generation with FLAN-T5 | Jupyter Notebook |
 | [**ai-agent-challenge**](https://github.com/Robin-Rajesh/ai-agent-challenge) | Coding agent that writes custom parsers for bank statement PDFs *(fork)* | Python |
-| [**ten-days-of-voice-agents-2025**](https://github.com/Robin-Rajesh/ten-days-of-voice-agents-2025) | Ten Days of Voice Agents 2025 challenge *(fork)* | TypeScript |
 | [**LLM**](https://github.com/Robin-Rajesh/LLM) | Large language models coursework *(empty)* | — |
 
 ### 🎙️ Speech, NLP & Computer Vision
