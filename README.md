@@ -7,7 +7,6 @@
 *Building intelligent systems end to end, from model experiments to production-ready AI applications.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Robin--Rajesh-181717?style=for-the-badge&logo=github)](https://github.com/Robin-Rajesh)
-[![Profile Views](https://komarev.com/ghpvc/?username=Robin-Rajesh&style=for-the-badge&color=blueviolet)](https://github.com/Robin-Rajesh)
 
 </div>
 
@@ -149,12 +148,15 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Robin-Rajesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Robin's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robin-Rajesh&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details and contributions" width="100%" />
+
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" height="180" />
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages" height="180" />
+
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" height="180" />
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" height="180" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robin-Rajesh&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Robin-Rajesh&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="100%" />
 
 </div>
 
