@@ -148,15 +148,23 @@
 
 <div align="center">
 
-<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details and contributions" width="100%" />
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details and contributions" width="90%" />
 
-<img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" height="180" />
-<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages" height="180" />
+<br/><br/>
 
-<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" height="180" />
-<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" height="180" />
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" width="44%" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages" width="44%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Robin-Rajesh&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<br/><br/>
+
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" width="44%" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" width="44%" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Robin-Rajesh&theme=tokyonight&hide_border=true" alt="GitHub streak" width="60%" />
 
 </div>
 
